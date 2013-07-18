@@ -6,20 +6,16 @@ Para que o app seja validado:
 
 1: selecionar todo o conteudo, e compactar.
 
-   ****não compactar a pasta, apenas os arquivos.
+   <h4>NOTA: não compactar a pasta, apenas os arquivos.</h4>
    
-    index.html
-    
+    index.html 
     manifest.appcache
-    
     manifest.webapp
-    
     .htaccess
     
     e as pastas 
     
-    /images
-    
+    /images    
     /css
     
     compactar juntas
@@ -33,5 +29,5 @@ Se feito modificações:
 
 
 Links:
-https://developer.mozilla.org/pt-BR/docs/Apps/Apps_empacotado
+https://developer.mozilla.org/pt-BR/docs/Apps/Apps_empacotado<br>
 http://www.carlosstenzel.com/TI/apps-empacotado-ou-packaged-apps/

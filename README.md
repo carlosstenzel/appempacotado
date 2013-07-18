@@ -32,3 +32,6 @@ Se feito modificações:
 1: exclua arquivos ocultos, (ex: index.html~)
 
 
+Links:
+https://developer.mozilla.org/pt-BR/docs/Apps/Apps_empacotado
+http://www.carlosstenzel.com/TI/apps-empacotado-ou-packaged-apps/

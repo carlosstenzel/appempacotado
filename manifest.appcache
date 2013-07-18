@@ -1,0 +1,18 @@
+CACHE MANIFEST
+# Version 0.6799999
+
+index.html
+css/base.css
+js/base.js
+images/logo128.png
+images/logo16.png
+images/logo32.png
+images/logo48.png
+images/logo60.png
+images/logo64.png
+
+NETWORK:
+*
+
+FALLBACK:
+

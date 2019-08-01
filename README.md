@@ -30,4 +30,4 @@ Se feito modificações:
 
 Links:
 https://developer.mozilla.org/pt-BR/docs/Apps/Apps_empacotado<br>
-http://www.carlosstenzel.com/TI/apps-empacotado-ou-packaged-apps/
+
